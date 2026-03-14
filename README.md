@@ -6,4 +6,7 @@
   </a>
 </div>
 
-Đây là cấu trúc folder của dataset:
+
+Đây là yêu cầu format dataset của repo YOLOv5:
+
+![abc](images/9.png)
