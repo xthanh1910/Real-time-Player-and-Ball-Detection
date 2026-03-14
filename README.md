@@ -9,11 +9,21 @@
 
 
 
-Đây là yêu cầu cấu trúc folder của repo YOLOv5:
+Đây là tổ chức folder của raw dataset để train:
+
+![abc](images/13.png)
+
+
+  - mỗi file mp4 đều kéo dài xấp xĩ 1p và có 25fps => mỗi video có 1500 frame
+
+  - file json tương ứng vs file mp4 sẽ chú thích cho 1500 frame trong file đó
+
+
+Đây là yêu cầu tổ chức folder dataset của repo YOLOv5:
 
 ![abc](images/11.png)
 
-Đây là cấu trúc folder dataset của mình:
+Đây là tổ chức folder dataset của mình sau khi xử lý raw dataset:
 
 ![abc](images/10.png)
 
@@ -43,3 +53,4 @@
 Đây là file label của mình:
 
 ![abc](images/8.png)
+
